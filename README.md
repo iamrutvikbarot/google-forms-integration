@@ -30,6 +30,8 @@ Create a **Google Sheet** named **"Form Responses"**, structured as follows:
 3. Copy and paste the code.gs script.
 4. Go to Triggers → Add Trigger → Select onFormSubmit → Choose “From form” → “On form submit”.
 5. Click Save and authorize the script.
+6. Create a Google Form with “Name”, “Email”, and “Message” fields.
+7. Link it to a Google Sheet named “Form Responses”.
 
 
 ## 📜 Script Code (`submitForm.gs`)  
